@@ -1,0 +1,39 @@
+<!DOCTYpE html>
+
+<html lang="pt">
+
+<head>
+<meta charset="utf-8">
+<title>Projetos</title>
+<meta name="description" "Projetos do meu PAP">
+<link rel="icon"href="favicon.png">
+<link type="stylesheet"type="text/css" href="teste.css">
+</head>
+
+<body>
+<header>
+<h1>Irrigação Automática</h1>
+</header>
+
+<nav>
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="projeto.html">Projetos</a></li>
+<li><a href="material.html">Material</a></li>
+<li><a href="contacto.html">Contacto</a></li>
+</ul>
+</nav>
+
+<section>
+<h2>Projetos do meu PAP</h2>
+</section>
+
+
+<footer>
+<p>Desenvolvido por Valdemiro Vila Nova Soares</p>
+</footer>
+
+</body>
+
+
+</html>
